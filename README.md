@@ -22,7 +22,7 @@ Make sure you have Node.js installed on your machine.
  ```sh
 1. Clone the repo
    git clone https://github.com/RajMogare/Word-To-PDF-Convertor.git
- ```sh
+
 2. Go to the project directory
    cd Work-To-PDF-Convertor
    
