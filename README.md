@@ -26,17 +26,17 @@ Make sure you have Node.js installed on your machine.
 2. Go to the project directory
    cd Work-To-PDF-Convertor
    
-4. Install frontend dependencies
+3. Install frontend dependencies
      cd frontend
      npm install
    
-6. Install backend dependencies
+4. Install backend dependencies
      cd backend
      npm install
    
-7. Start the backend
+5. Start the backend
      npm start
 
-8. Start the frontend
+6. Start the frontend
      npm run dev
    
